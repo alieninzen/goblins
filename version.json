@@ -1,6 +1,6 @@
 {
  "version":"0.6",
  "canPlayOld":"false",
-"enemyBalanceDamage" : "0.1",
-"enemyBalanceHp" : "3.0"
+"enemyBalanceDamage" : "1.0",
+"enemyBalanceHp" : "1.0"
 }
