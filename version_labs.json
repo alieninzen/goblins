@@ -1,0 +1,11 @@
+{
+  "version": "0.8",
+  "canPlayOld": "false",
+  "enemyBalanceDamage": "1.0",
+  "enemyBalanceHp": "1.0",
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.alieninzen.GoblinBattle",
+  "adsEnabled": false,
+  "adsFromLevel": 20,
+  "secondsBetweenAds": 120,
+  "adsEachLevel": 7
+}
