@@ -5,9 +5,10 @@
   "enemyBalanceHp": "1.0",
   "storeURL": "https://play.google.com/store/apps/details?id=com.alieninzen.GoblinBattle",
   "rateUsEnabled":false,
-  "adsEnabled": false,
-  "shopEnabled": false,
+  "adsEnabled": true,
+  "shopEnabled": true,
   "adsFromLevel": 18,
   "secondsBetweenAds": 120,
+  "referalsEnabled": true,
   "adsEachLevel": 7
 }

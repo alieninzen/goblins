@@ -9,5 +9,6 @@
   "shopEnabled": false,
   "adsFromLevel": 18,
   "secondsBetweenAds": 120,
+  "referalsEnabled": false,
   "adsEachLevel": 7
 }
